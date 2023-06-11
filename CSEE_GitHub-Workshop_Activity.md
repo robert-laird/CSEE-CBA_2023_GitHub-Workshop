@@ -24,7 +24,7 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 3.** What is your go-to karaoke anthem?
 
-*Answer:*
+*Answer:* You don't want me to sing. Music would never be the same
 
 **Question 4.** Who is your favorite Canadian icon? E.g., Gordon Lightfoot, Rush, beavers etc.
 
