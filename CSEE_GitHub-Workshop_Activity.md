@@ -18,7 +18,7 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 *Answer:* 
 
-**Question 2.** Is a hot dog a sandwich? Justify your answer.
+**Question 2.** Is a hot dog a sandwich? Justify your answer. I'd be a Hawk
 
 *Answer:* No, a hotdog is not a sandwich by fiat declaration. 
 
