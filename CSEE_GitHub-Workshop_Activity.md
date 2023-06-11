@@ -16,9 +16,9 @@ To start, be careful not to make changes on the same line -- this can introduce 
 
 **Question 1.** If you could be an animal for a day, which would you choose and why?
 
-*Answer:* 
+*Answer:* I'd be a hawk. 
 
-**Question 2.** Is a hot dog a sandwich? Justify your answer. I'd be a Hawk
+**Question 2.** Is a hot dog a sandwich? Justify your answer. I'd be a Hawk. I screwed up. Let me move that. 
 
 *Answer:* No, a hotdog is not a sandwich by fiat declaration. 
 
